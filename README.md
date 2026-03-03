@@ -1,18 +1,20 @@
-## Hi!👋
-My name is Anastasiya Martynenka. I’m currently studying Computer Engineering at Wrocław University of Science and Technology. At the moment, I’m particularly interested in web applications and data science. I’m continuously working on deepening my knowledge in IT and am eager to gain real-world experience in programming.
+## Hi👋
 
-### If you want to get to know me better:
+I’m Anastasiya Martynenka — a Computer Engineering graduate from Wrocław University of Science and Technology.
 
-- 🔭 I’m currently working on a web application connected to my database using Django
-- 🌱 I’m currently deepening my knowledge in data science
-- 💻 I discovered programming about 4 years ago and have been growing more passionate about it every day since.
-- 📫 How to reach me: martynenkonasta48@gmail.com
-- ⚡ Fun facts: I love reading fantasy and detective books, I adore cats, and I enjoy going for walks
+I focus on data analytics and enjoy working with Python and SQL to explore datasets, identify patterns, and transform raw information into clear insights. I’m particularly interested in analytical thinking, database work, and structured problem solving.
 
-### Languages and Technologies:
+### About me
 
-- Python
-- PostgreSQL
-- Git
+- 🌱 Currently developing my skills in data analysis and Power BI
+- 📊 Interested in extracting insights from data and building logical, well-structured solutions
+- 💻 4+ years of programming experience through academic and personal projects
 
-Feel free to check out my work and connect with me!
+### Technologies
+
+- Python  
+- SQL  
+- Git  
+
+📫 martynenkonasta48@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/anastasiya-martynenka-01b517341/
