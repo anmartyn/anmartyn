@@ -2,7 +2,7 @@
 
 I’m Anastasiya Martynenka — a Computer Engineering graduate from Wrocław University of Science and Technology.
 
-I focus on data analytics and enjoy working with Python and SQL to explore datasets, identify patterns, and transform raw information into clear insights. I’m particularly interested in analytical thinking, database work, and structured problem solving.
+I’m focused on data analytics and enjoy using Python and SQL to explore datasets, identify patterns, and turn raw data into clear, actionable insights. I’m especially interested in database work, analytical problem solving, and building well-structured data projects.
 
 ### About me
 
@@ -13,8 +13,15 @@ I focus on data analytics and enjoy working with Python and SQL to explore datas
 ### Technologies
 
 - Python  
-- SQL  
-- Git  
+- SQL
+- Power BI  
+- Git
 
-📫 martynenkonasta48@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/anastasiya-martynenka-01b517341/
+### Languages
+- English
+- Polish
+- Russian
+- Belarusian
+
+📫 **Email:** martynenkonasta48@gmail.com  
+🔗 **LinkedIn:** [Anastasiya Martynenka](https://www.linkedin.com/in/anastasiya-martynenka-01b517341/)
